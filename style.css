@@ -73,12 +73,12 @@ p {
 }
 
 .bg1{
-    background: url('img/1.jpg');
+    background: url('img/p01.png');
     color: #333;
 }
 
 .bg2{
-    background: url('img/2.jpg');
+    background: url('img/p02.png');
     color: #321
 }
 .shadowbox {
